@@ -551,11 +551,4 @@ Google actively uses AI for social good projects, addressing real-world challeng
 Overall, Google's focus on ethics and fairness in applied data science is aimed at building trust with users, promoting responsible AI deployment, and creating positive societal outcomes. By adhering to ethical principles, Google aims to set a standard for ethical data practices in the industry and contribute to the responsible use of data-driven technologies
 
 
-# Assignment 1
-[https://github.com/GulSherAliKhan/Assignment_no_1]
 
-# Assignment 2
-[https://github.com/GulSherAliKhan/Movies-data-from-TMDB.]
-
-# Assignment 3
-[https://github.com/GulSherAliKhan/Road_Accident]
